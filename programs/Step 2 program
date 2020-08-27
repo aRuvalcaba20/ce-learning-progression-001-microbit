@@ -1,0 +1,3 @@
+/* This program is meant to show the diamond on the LED lights for the microbit.
+*/
+basic.showIcon(IconNames.Diamond) //I chose this icon because it is unique
